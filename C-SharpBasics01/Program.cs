@@ -2,6 +2,8 @@
 using System.Threading; // Kvůli "Heslo + Omezený počet pokusů (5)"
 using System.Numerics; //Kvůli "Fibonacciho posloupnost verze s BigInteger -> Neomezený rozsah"
 
+//ZÁKLADNÍ PŘÍKAZY V C#, Tutorial: https://youtu.be/MSXsCDiEdLI?si=QfmldeyPzZ0DYTRo
+
 //Console.WriteLine("Hello World!");
 
 //Hello, <name>!
